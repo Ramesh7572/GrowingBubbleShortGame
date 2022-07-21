@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\ASUS\\Downloads\\Bubble shoter game\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-or\\values-or.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ASUS\\Downloads\\Bubble shoter game\\android\\caches\\transforms-1\\files-1.1\\play-services-ads-17.0.0.aar\\03dc367e14d1d49a5c401d5daa41d7cc\\res\\values-or\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "197,272,406,476,553,643,766",
+                        "endColumns": "74,133,69,76,89,122,77",
+                        "endOffsets": "271,405,475,552,642,765,843"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "304,383,521,595,676,770,897",
+                        "endColumns": "78,137,73,80,93,126,81",
+                        "endOffsets": "378,516,590,671,765,892,974"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ASUS\\Downloads\\Bubble shoter game\\android\\caches\\transforms-1\\files-1.1\\play-services-basement-16.0.1.aar\\05d6d74d226643ddc74afe5b9f161ed1\\res\\values-or\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "198",
+                        "endOffsets": "445"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "198",
+                        "endOffsets": "299"
+                    }
+                }
+            ]
+        }
+    ]
+}

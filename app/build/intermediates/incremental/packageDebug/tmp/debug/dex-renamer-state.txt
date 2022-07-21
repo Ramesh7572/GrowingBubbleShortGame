@@ -1,0 +1,4 @@
+#Thu Jul 21 13:08:32 IST 2022
+base.0=C\:\\Users\\ASUS\\Downloads\\Bubble shoter game\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex
